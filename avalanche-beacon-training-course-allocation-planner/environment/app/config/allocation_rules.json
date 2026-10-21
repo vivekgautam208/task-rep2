@@ -1,0 +1,56 @@
+{
+  "group_daily_cap": 2,
+  "issue_severity": {
+    "BAD_BEACON_LIST": 87,
+    "BAD_BOOLEAN": 90,
+    "BAD_CAPACITY": 91,
+    "BAD_DATE": 95,
+    "BAD_DURATION": 92,
+    "BAD_PRIORITY": 82,
+    "BAD_RISK_LEVEL": 86,
+    "BAD_SESSION_BOOLEAN": 89,
+    "BAD_SESSION_DAY": 96,
+    "BAD_SESSION_JSON": 99,
+    "BAD_TIME": 94,
+    "BEACON_INCOMPATIBLE": 68,
+    "DUPLICATE_PARTICIPANT": 81,
+    "DUPLICATE_SESSION": 80,
+    "EXPIRED_CERT": 93,
+    "GROUP_DAILY_CAP_REACHED": 66,
+    "MISSING_AVALANCHE1": 70,
+    "MISSING_REQUIRED": 100,
+    "MISSING_SESSION_REQUIRED": 98,
+    "NO_MEDICAL_CLEARANCE": 84,
+    "NO_SESSION_ON_DAY": 76,
+    "RISK_TOO_HIGH": 72,
+    "SESSION_FULL": 64,
+    "SKILL_TOO_LOW": 74,
+    "UNCERTIFIED_INSTRUCTOR": 85,
+    "UNKNOWN_BEACON_MODEL": 83,
+    "UNKNOWN_MIN_SKILL": 88,
+    "UNKNOWN_SKILL": 97
+  },
+  "max_risk_by_skill": {
+    "advanced": 4,
+    "intermediate": 3,
+    "novice": 1
+  },
+  "policy_version": "beacon-training-2026.02",
+  "session_day_order": [
+    "2026-02-10",
+    "2026-02-11",
+    "2026-02-12"
+  ],
+  "skill_rank": {
+    "advanced": 3,
+    "intermediate": 2,
+    "novice": 1
+  },
+  "today": "2026-02-01",
+  "valid_beacon_models": [
+    "Barryvox",
+    "Pieps",
+    "Ortovox",
+    "Mammut"
+  ]
+}
